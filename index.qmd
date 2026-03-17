@@ -1,5 +1,5 @@
 ---
-title: "Best Practices for Reproducible Science: Lessons from 2400+ Papers"
+title: "Reproducible research with sensitive and restricted data "
 author: 
   - "Lars Vilhuber"
 date: 18 March 2026

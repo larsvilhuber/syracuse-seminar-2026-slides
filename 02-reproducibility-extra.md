@@ -1,4 +1,4 @@
-# Details on Transparency, etc.
+# Data and Code Transparency in Economics
 
 ## Transparency
 
@@ -68,6 +68,7 @@ None
 
 :::{.column width="50%"}
 
+
 - [American Economic Association](https://www.aeaweb.org/journals/) (8)
 - [Econometric Society](https://www.econometricsociety.org/) (3)
 - [Canadian Journal of Economics](https://www.economics.ca/cje-home) (1)
@@ -75,6 +76,8 @@ None
 - [Western Economic Association International](https://weai.org/view/EI-Journal-Policies) (1)
 - [European Economic Association](http://www.eeassoc.org/journal) (1)
 - [Review of Economic Studies](https://www.restud.com/) (1)
+- [Journal of the European Economic Association](https://academic.oup.com/jeea) (1)
+- [Journal of Political Economy](https://www.journals.uchicago.edu/journals/jpe/about) (3)
 
 :::
 
@@ -141,24 +144,3 @@ None
 
 ::::
 
-## But!
-
-## Elsewhere: Sociology {.smaller}
-
-::::{.columns}
-
-:::{.column width="50%"}
-
-![Sociological Science](images/socscience-webpage.png)
-
-:::
-
-:::{.column width="50%"}
-
-![Weeden (2023)](images/hdsr-weeden.png) [^hdsr1]
-
-[^hdsr1]:  Weeden, K. A. (2023). Crisis? What Crisis? Sociology’s Slow Progress Toward Scientific Transparency  . Harvard Data Science Review, 5(4). <https://doi.org/10.1162/99608f92.151c41e3>
-
-:::
-
-::::
