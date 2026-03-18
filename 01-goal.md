@@ -1,6 +1,5 @@
-# Best practices? {background-image="images/lake-steaming.jpg" background-size="contain" background-position="bottom"}
 
-# First: why? {background-image="images/lake-red.jpg" background-size="contain" background-position="bottom"}
+# Why? {background-image="images/lake-red.jpg" background-size="contain" background-position="bottom"}
 
 ## Why reproducibility?
 
